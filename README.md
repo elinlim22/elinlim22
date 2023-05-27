@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![hyeslim's 42 stats](https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+<a align=center href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/stats?cursusId=21&coalitionId=86" alt="hyeslim's 42 stats" /></a>
+<!-- [![hyeslim's 42 stats](https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42) -->
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
