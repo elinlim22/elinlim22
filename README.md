@@ -3,8 +3,9 @@
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/stats?cursusId=21&coalitionId=86" alt="hyeslim's 42 stats" /></a>
 </div>
   <br>
-<div align=center><h1>🙋🏻‍♀️ PROJECT SCORE</h1></div>
-<div align=center>
+<div align=center><h1>💯 PROJECT SCORE</h1></div>
+<!-- <div align=center> -->
+<h2>Libft :</h2>
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2646074" alt="hyeslim's 42 Libft Score" /></a>
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2687629" alt="hyeslim's 42 get_next_line Score" /></a>
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2687632" alt="hyeslim's 42 Born2beroot Score" /></a>
