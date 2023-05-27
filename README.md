@@ -3,6 +3,27 @@
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/stats?cursusId=21&coalitionId=86" alt="hyeslim's 42 stats" /></a>
 </div>
   <br>
+<div align=center><h1>🙋🏻‍♀️ PROJECT SCORE</h1></div>
+<div align=center>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2646074" alt="hyeslim's 42 Libft Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2687629" alt="hyeslim's 42 get_next_line Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2687632" alt="hyeslim's 42 Born2beroot Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2687628" alt="hyeslim's 42 ft_printf Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2817093" alt="hyeslim's 42 push_swap Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2880716" alt="hyeslim's 42 so_long Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2817096" alt="hyeslim's 42 pipex Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2917631" alt="hyeslim's 42 Exam Rank 02 Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2923333" alt="hyeslim's 42 minishell Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/2923335" alt="hyeslim's 42 Philosophers Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/3035057" alt="hyeslim's 42 Exam Rank 03 Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/3060600" alt="hyeslim's 42 Exam Rank 04 Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/3060598" alt="hyeslim's 42 cub3d Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/3060599" alt="hyeslim's 42 NetPractice Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/3060597" alt="hyeslim's 42 CPP Module 00 Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/3080654" alt="hyeslim's 42 CPP Module 01 Score" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/project/3082191" alt="hyeslim's 42 CPP Module 02 Score" /></a>
+</div>
+  <br>
 <!-- [![hyeslim's 42 stats](https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42) -->
 <div align=center><h1>📚 STACKS</h1></div>
 
