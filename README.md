@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<div align=center><h1>🙋🏻‍♀️ CADET INFO</h1></div>
 <div align=center>
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcg5yu5800060fjoyweally5/stats?cursusId=21&coalitionId=86" alt="hyeslim's 42 stats" /></a>
 </div>
